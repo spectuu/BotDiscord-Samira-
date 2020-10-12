@@ -11,7 +11,7 @@ let con = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "",
-  database: "bd_bot"
+  database: ""
   });
 
 client.on('ready', () => {
