@@ -245,4 +245,4 @@ command(client, ['UpdateMessage', 'UPMessage'], (message) => {
       });
     });
 
-client.login('NzU2NTgxNjM5ODczNjI2MjEz.X2T7jw.94cClsV9_JV2IkUNRsKsaXapkUQ');
+client.login('');
